@@ -19,13 +19,19 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.MediaApp"
     },
     "web": {
       "favicon": "./assets/icon.png"
     },
     "plugins": [
       "expo-video"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "34b2dcc8-52a7-4df2-9824-1e39a6975512"
+      }
+    }
   }
 }
