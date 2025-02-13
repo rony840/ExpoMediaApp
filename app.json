@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ExpoFirebase",
-    "slug": "ExpoFirebase",
+    "name": "MediaApp",
+    "slug": "MediaApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,7 +22,10 @@
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
-    }
+      "favicon": "./assets/icon.png"
+    },
+    "plugins": [
+      "expo-video"
+    ]
   }
 }
