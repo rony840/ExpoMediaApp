@@ -75,7 +75,7 @@ const Media = () => {
             <ScrollView contentContainerStyle={styles.scrollContainer}>
             {/* Display media */}
             {mediaUri && mediaType === "image" && (
-                <Image source={{ uri: mediaUri }} style={styles.media} />
+                <Image resizeMode="contain" source={{ uri: mediaUri }} style={styles.media} />
             )}
             {mediaUri && mediaType === "video" && (
                 <View>
