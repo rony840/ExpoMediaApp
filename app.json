@@ -28,16 +28,17 @@
     "plugins": [
       "expo-video"
     ],
-    "extra": {
-      "eas": {
-        "projectId": "34b2dcc8-52a7-4df2-9824-1e39a6975512"
-      }
-    },
     "runtimeVersion": {
       "policy": "appVersion"
     },
     "updates": {
       "url": "https://u.expo.dev/34b2dcc8-52a7-4df2-9824-1e39a6975512"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1b530615-5004-4972-a166-4a903dfef101"
+      }
+    },
+    "owner": "rony840"
   }
 }

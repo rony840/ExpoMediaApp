@@ -30,7 +30,7 @@ const Home = () => {
             />            
             <CustomTextInput customPlaceholder={"Email"} onTxtEntry={setEmail}/>
             <CustomTextInput customPlaceholder={"Password"} onTxtEntry={setPassword}/>
-            <CustomButton btnTitle={"signup"} onBtnPress={()=>handleSignup()}/>
+            <CustomButton btnTitle={"Sign in/up"} onBtnPress={()=>handleSignup()}/>
         </SafeAreaView>
     )
 }
@@ -42,7 +42,7 @@ const styles = StyleSheet.create({
         padding: 10,
     },
     image: {
-        marginTop:'10%',
+        marginTop:'2%',
         width: 200,
         height: 200,
         marginBottom: 10,
