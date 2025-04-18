@@ -12,7 +12,7 @@ const CustomTextDisplay = (props) => {
 
 const styles = StyleSheet.create({
     txtDisp:{
-        marginTop:'10%',
+        marginTop:'2%',
         fontSize: 30,
         fontWeight: 700,
         color:'rgb(94, 94, 94)',
