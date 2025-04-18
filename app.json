@@ -23,7 +23,9 @@
       "package": "com.MediaApp"
     },
     "web": {
-      "favicon": "./assets/icon.png"
+      "favicon": "./assets/icon.png",
+      "bundler": "metro",
+      "output": "static"
     },
     "plugins": [
       "expo-video"
