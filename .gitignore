@@ -34,9 +34,3 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
-
-*.aab
-*.apk
-my-web-build
-.env
-google-services.json
