@@ -34,3 +34,8 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+#exclude build files
+MediaApp.apk
+.env
+my-web-build
