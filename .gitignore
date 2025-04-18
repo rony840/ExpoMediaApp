@@ -37,3 +37,6 @@ yarn-error.*
 
 MediaApp.aab
 MediaApp.apk
+google-services.json
+.env
+my-web-build
