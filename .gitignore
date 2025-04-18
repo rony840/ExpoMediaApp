@@ -35,7 +35,8 @@ yarn-error.*
 # typescript
 *.tsbuildinfo
 
-MediaApp.aab
-MediaApp.apk
-
+*.aab
+*.apk
+my-web-build
 .env
+google-services.json
