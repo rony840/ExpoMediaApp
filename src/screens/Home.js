@@ -21,7 +21,7 @@ const Home = () => {
 
     return(
         <SafeAreaView style={styles.screenCont}>
-            <CustomTextDisplay txtToDisp={"Base64 File Preview"} />
+            <CustomTextDisplay txtToDisp={"Base64 Image"} />
 
             {/* Display Base64 Image */}
             <Image 
