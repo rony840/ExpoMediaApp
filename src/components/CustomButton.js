@@ -16,11 +16,11 @@ const CustomButton = (props) => {
 
 const styles = StyleSheet.create({
     btnContainer:{
-        marginTop:'10%',
+        marginTop:'2%',
         justifyContent:'center',
         alignItems:'center',
         height:60,
-        width:"100%",
+        width:350,
         backgroundColor:'rgb(0, 114, 214)',
         borderRadius:30,
     },

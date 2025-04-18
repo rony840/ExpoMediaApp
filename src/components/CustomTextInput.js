@@ -17,7 +17,7 @@ const CustomTextInput = (props) => {
 const styles = StyleSheet.create({
     txtInput:{
         padding:20,
-        marginTop:'10%',
+        marginTop:'2%',
         height:60,
         width:250,
         backgroundColor:'white',
